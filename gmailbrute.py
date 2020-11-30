@@ -41,4 +41,4 @@ for pas in wordlist:
             print (Fore.RED + "Şifre Bulundu : ", pas)
             break
         else:
-            print (Fore.YELLOW + "Yanlış Şifre ------> ", pas)
+            print (Fore.YELLOW + "Yanlış Şifre ◽◽◽◽◽≫ ", pas)
