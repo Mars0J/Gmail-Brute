@@ -1,3 +1,6 @@
+#! /usr/bin/env python
+# -*- coding: UTF-8 -*-
+
 import smtplib
 import os
 from colorama import Fore, Back, Style, init
